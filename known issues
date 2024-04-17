@@ -1,0 +1,4 @@
+
+
+-Regulator U13 is missing a trace connecting it's enable pin to the common regulator enable line.  The enable pin can be connected directly to that regulator's V_in pin.  -JO 04-17-24
+
